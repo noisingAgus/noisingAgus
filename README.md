@@ -40,6 +40,9 @@
     
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssjciro&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noisingAgus&theme=dark&hide_border=true)](https://git.io/streak-stats)
     
-![noisingAgus GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![noisingAgus GitHub stats](https://github-readme-stats.vercel.app/api?username=noisingAgus&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noisingAgus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
