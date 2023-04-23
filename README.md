@@ -33,7 +33,7 @@
 <div align="left">
     <h3>Languages and Frameworks:</h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,ruby,mysql,php,python,rust,c++,c#" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,ruby,mysql,php,python,rust,cpp,c#" />
 </div>
     
 -  -  -
